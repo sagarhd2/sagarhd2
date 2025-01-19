@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently STUDYING ->AIML <br>🌱 I’m currently learning -> DSA in JAVA<br>I KNOW -> python and java  basics<br>
+🔭 I’m currently STUDYING ->AIML <br>🌱 I’m currently learning -> DSA in JAVA , OOPS in PYTHON.<br>I KNOW -> python and java  basics<br>
 
 
 ## 🌐 Socials:
